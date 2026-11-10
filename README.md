@@ -1,1 +1,1 @@
-# all in releases, for if ur school doesnt block github
+# all versions in releases, for if ur school doesnt block github
