@@ -2,3 +2,4 @@
 - if youre stupid and cant find releases, https://github.com/anc-w/vertx/releases
 - in releases click the blue vertx-versionHere for a direct download
 - make sure you get the most recent version
+- download from releases and not the vertx.html in the main branch
