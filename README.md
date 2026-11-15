@@ -6,5 +6,4 @@
 - we currently have nearly 3000 unblocked games, music, a search engine, a chat with dms, groups, or global, and much much more
 - even remote access for your own pc! the setup exe file is too large to uplaod, so you will have to join the discord, linked in the html in the top right on the main page! (button with the discord icon obviously)
 - if youre in school and discord is blocked, heres the link you can just write down: https://discord.com/invite/Ed5TzhEFYx
-- html blocked? use the vertx.svg in releases or main branch to attempt to get around html blocking! may or may not work depending on school restrictions
 - and most importantly, have fun!
