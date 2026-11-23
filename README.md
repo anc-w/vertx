@@ -9,7 +9,7 @@
 - remember to stay safe and reveal no personal details, or anything like that in chat please!
 - and most importantly, have fun!
 
-**most recent important dev announcement(s)**
+**most recent important dev announcement(s)**<br>
 "github wont be updated until 11/29/26 (november 29th), which means a few versions will be skipped"<br>
 *- anc @ 11/23/26*
 
