@@ -8,3 +8,13 @@
 - if youre in school and discord is blocked, heres the link you can just write down: https://discord.com/invite/Ed5TzhEFYx
 - remember to stay safe and reveal no personal details, or anything like that in chat please!
 - and most importantly, have fun!
+
+**most recent dev announcement(s)**
+github wont be updated until 11/29/26 (november 29th), which means a few versions will be skipped
+*- anc @ 11/23/26*
+
+Hey everybody, I have some info I need to share about this week. So basically this week I’m gonna be releasing fewer updates than normal. Why? Because it’s Thanksgiving and I kinda need a break ig. I will be releasing bug fixes and minor updates though just not major ones. And once again thanks for 400
+*- kitkat @ 11/22/26*
+
+**ignore**
+add vertx.html then release, ensure version tag is correct in all places
